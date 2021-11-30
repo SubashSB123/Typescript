@@ -1,0 +1,24 @@
+#first{
+    display: block;
+}
+#second{
+    display:none;
+}
+#third{
+    display:none;
+}
+#fourth{
+    display:none;
+}
+#fifth{
+    display:none;
+}
+#sixth{
+    display:none;
+}
+body{
+    position: relative;
+    top: 2cm;
+    left: 13cm;
+    
+}
